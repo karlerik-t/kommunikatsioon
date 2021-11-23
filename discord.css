@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+#content {
+    min-height: 69vh;
+}
+
+h1 {
+    height: 10vh;
+    font-weight: bold;
+    font-size: 45px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+footer {
+    background-color: gray;
+    height: 10vh;
+}
+
+.stiil {
+    margin: 0;
+    font-size: 25px;
+}
+
+.asetus {
+    display: grid;
+    grid-template-rows: repeat(0, 0fr);
+    grid-row-gap: 2px;
+    row-gap: 1rem;
+    font-size: 30px
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    gap: 10px 70px; /* row-gap column gap */
+    row-gap: 10px;
+    column-gap: 70px;
+}
+
+
+.pilt1 {
+    position: absolute;
+    top: 30%;
+    right: 30%;
+
+}
