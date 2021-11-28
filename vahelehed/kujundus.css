@@ -70,21 +70,6 @@ p a {
     padding-left: 10px;
 }
 
-#content {
-    min-height: 69vh;
-    padding-right:35%
-}
-
-.pilt1 {
-    position: absolute;
-    top: 10%;
-    right: 10%;
-    width: 220px;
-    height: 220px;
-}
-
-
-
 #d1 {
   width: 150;
   height: 150;
