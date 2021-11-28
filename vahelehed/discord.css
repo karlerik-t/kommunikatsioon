@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+#content {
+    min-height: 69vh;
+}
+
+h1 {
+    height: 10vh;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.asetus {
+    padding-right:50%
+}
+
+.pilt {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+
+}
