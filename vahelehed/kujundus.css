@@ -1,4 +1,69 @@
 body {
+    background-color: #ffffff;
+}
+.pealkiri1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pealkiri2{
+    font-size: 25px;
+    text-align: left;
+    padding: 10px;
+}
+
+.upper {
+    height: 10%;
+    padding: 10px;
+}
+.main {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    background-color: #ffffff;
+}
+
+.main-sisu {
+    width: 100%;
+
+}
+
+.sisu {
+    width: 80%;
+    height: 100%;
+    float: left;
+}
+
+.pilt {
+    width: 20%;
+    float: left;
+}
+.pildid {
+    height: 200px;
+    width: 200px;
+}
+
+.pildid:hover {
+    height: 250px;
+    width: 250px;
+}
+
+.sisu p {
+    text-align: left;
+    padding: 10px;
+}
+
+p a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 5 5 5;
+    color: #000000;
+}
+
+
+
+.vahelehed {
     margin: 0;
     font-family: Helvetica, sans-serif;
     font-size: 25px;
@@ -7,22 +72,33 @@ body {
 
 #content {
     min-height: 69vh;
+    padding-right:35%
 }
 
-h1 {
-    height: 10vh;
-    font-weight: bold;
-    font-size: 40px;
-    padding-top: 20px;
-}
-
-.asetus {
-    padding-right:50%
-}
-
-.pilt {
+.pilt1 {
     position: absolute;
     top: 10%;
-    right: 20%;
+    right: 10%;
+    width: 220px;
+    height: 220px;
+}
 
+
+
+#d1 {
+  width: 150;
+  height: 150;
+  padding: 10px;
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  float: right;
+}
+#d2 {
+  width: 50;
+  height: 700;
+  padding: 10px;
+  margin: 0;
+  position: absolute;
+  right: 180px;
 }
