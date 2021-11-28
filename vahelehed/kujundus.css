@@ -43,6 +43,11 @@ body {
     width: 200px;
 }
 
+.pilt2 {
+    height: 150px;
+    width: 150px;
+}
+
 .pildid:hover {
     height: 250px;
     width: 250px;
