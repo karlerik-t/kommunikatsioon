@@ -62,7 +62,7 @@ p a {
     text-decoration: none;
     font-weight: bold;
     font-size: 18px;
-    padding: 0 5 5 5;
+    padding: 0px 5px 5px 5px;
     color: #000000;
 }
 
@@ -76,19 +76,18 @@ p a {
 }
 
 #d1 {
-  width: 150;
-  height: 150;
+  width: 150px;
+  height: 150px;
   padding: 10px;
   position: absolute;
-  top: 30px;
+  top: 10px;
   right: 10px;
-  float: right;
 }
 #d2 {
-  width: 50;
-  height: 700;
+  height: 700px;
   padding: 10px;
   margin: 0;
   position: absolute;
-  right: 180px;
+  left: 0px;
+  right: 150px;
 }
